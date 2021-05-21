@@ -82,24 +82,7 @@ table {
 	padding:2px 4px;
 	word-break:normal;
 	height:33px;
-    text-align:center;
-    border-color: black;
 }
-.tg .works{
-    background-color: green;
-    color: white;
-}
-.tg .issue{
-    background-color: orange;
-}
-.tg .unplayable{
-    background-color: darkred;
-    color: white;
-}
-.tg .unknown {
-        background-color: #3e3e3e;
-        color: white;
-    }
 .tg th{
 	background-color:#409cff;
 	border-color:#000;
